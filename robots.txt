@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upicoemi.github.io/FLo/sitemap_index.txt
+Sitemap: https://upicoemi.github.io/PSb/sitemap_index.txt
+Sitemap: https://upicoemi.github.io/jKq/sitemap_index.txt
+Sitemap: https://upicoemi.github.io/ylr/sitemap_index.txt
